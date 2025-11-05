@@ -97,6 +97,4 @@ README.md
 
 ```
 
-## License
 
-MIT
